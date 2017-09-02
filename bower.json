@@ -17,5 +17,8 @@
   ],
   "dependencies": {
     "angular-xeditable": "^0.8.0"
+  },
+  "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install"
   }
 }
