@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node app.js",
+    "start": "node app.js",
     "postinstall": "bower cache clean && bower install"
   },
   "keywords": [],
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "bower": "^1.8.0",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
     "mongoose": "^4.11.7",
