@@ -1,0 +1,21 @@
+{
+  "name": "node-todos",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "DESKTOP-5MP9QR3\\MinhDuc <ducpminh668@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-xeditable": "^0.8.0"
+  }
+}
